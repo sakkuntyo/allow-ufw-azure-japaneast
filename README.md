@@ -1,0 +1,1 @@
+# allow-ufw-azure-japaneast
